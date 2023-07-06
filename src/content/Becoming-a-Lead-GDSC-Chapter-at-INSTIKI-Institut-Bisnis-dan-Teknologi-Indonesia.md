@@ -9,7 +9,6 @@ imgHeight: 900
 ---
 
 ## WHAT IS GDSC?
-![GDSC Chapter](https://miro.medium.com/v2/resize:fit:640/format:webp/1*GVWO8ImJbMioMoXxJHoTHw.jpeg)
 
 Before delving into my experience of applying and becoming a Lead GDSC while running the organization for the past 3 months (at the time of writing this), let me explain what GDSC (Google Developer Student Clubs) is to everyone. GDSC is a non-profit organization founded by Google, usually present in college environments, with members consisting of students whose goal is to bridge the gap between the industry and academia.
 
